@@ -1,10 +1,5 @@
-# Hi, I'm Harold
+# This is a Test
 
-Welcome to my Github profile! Here you'll find projects I'm working on:
-
-## Projects
-
-- Django message board (coming soon)
-- To do list (coming soon)
+if you see this, it worked.
 
 
